@@ -1,0 +1,721 @@
+startup:Running Magmi Product Import Engine v1.5 by dweeves
+startup:Import Mode:update
+title:MAGMI by dweeves - version:0.7.16a
+step:step:0.5%
+plugin;Magmi_CSVDataSource;pluginhello:CSV Datasource-1.1.2-Dweeves- 
+plugin;CategoryImporter;pluginhello:On the fly category creator/importer-0.1.6b-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_category_creator/importer 
+plugin;Magmi_DefaultAttributeItemProcessor;pluginhello:Standard Attribute Import-1.0.1-Dweeves- 
+plugin;Magmi_CSVDataSource;startup:CSV Datasource v1.1.2 - Importing CSV : ../../var/import/prekes.csv using separator [ , ] enclosing [ " ]
+startup:Performing Datasouce Lookup...
+lookup:9957:0.30547308921814
+startup:Found 9957 records, took 0.30547308921814 sec
+plugin;Magmi_CSVDataSource;startup:CSV Datasource v1.1.2 - 22 CSV headers columns found
+columns:22
+startup:Ajusted processed columns:25
+skip:skipping unknown sku:00051GL - update mode set
+skip:skipping unknown sku:00052GL - update mode set
+skip:skipping unknown sku:00053GL - update mode set
+skip:skipping unknown sku:00054GL - update mode set
+skip:skipping unknown sku:00061GL - update mode set
+skip:skipping unknown sku:00062GL - update mode set
+skip:skipping unknown sku:00063GL - update mode set
+skip:skipping unknown sku:00064GL - update mode set
+itime:50 - 0.507887840271 - 0.507887840271
+dbtime:720 - 0.12151980400085 - 0.12151980400085 - 720
+skip:skipping unknown sku:00419GL - update mode set
+itime:100 - 1.2378919124603 - 0.72988486289978
+dbtime:1527 - 0.25887966156006 - 0.1373598575592 - 807
+itime:150 - 1.7912020683289 - 0.55321311950684
+dbtime:2380 - 0.3976263999939 - 0.13874673843384 - 853
+skip:skipping unknown sku:01039GL - update mode set
+skip:skipping unknown sku:01231.4GL - update mode set
+skip:skipping unknown sku:01231GL - update mode set
+skip:skipping unknown sku:01232GL - update mode set
+skip:skipping unknown sku:01511.3GL - update mode set
+skip:skipping unknown sku:01512GL - update mode set
+skip:skipping unknown sku:01521.3GL - update mode set
+skip:skipping unknown sku:01522GL - update mode set
+skip:skipping unknown sku:01531.3GL - update mode set
+skip:skipping unknown sku:01532GL - update mode set
+itime:200 - 2.2999088764191 - 0.50856995582581
+dbtime:3073 - 0.51508808135986 - 0.11746168136597 - 693
+itime:250 - 2.9085309505463 - 0.60852098464966
+dbtime:3895 - 0.65329623222351 - 0.13820815086365 - 822
+itime:300 - 3.5390219688416 - 0.63034105300903
+dbtime:4725 - 0.79054808616638 - 0.13725185394287 - 830
+itime:350 - 4.2580859661102 - 0.71897506713867
+dbtime:5542 - 0.92838358879089 - 0.13783550262451 - 817
+skip:skipping unknown sku:0727060 - update mode set
+skip:skipping unknown sku:0727061 - update mode set
+skip:skipping unknown sku:0727062 - update mode set
+itime:400 - 4.932797908783 - 0.67457294464111
+dbtime:6320 - 1.0571012496948 - 0.12871766090393 - 778
+skip:skipping unknown sku:1/211 - update mode set
+skip:skipping unknown sku:1/212 - update mode set
+skip:skipping unknown sku:1/215 - update mode set
+skip:skipping unknown sku:1/216 - update mode set
+skip:skipping unknown sku:1/217 - update mode set
+itime:450 - 5.574285030365 - 0.64135813713074
+dbtime:7051 - 1.178405046463 - 0.12130379676819 - 731
+skip:skipping unknown sku:1/453 - update mode set
+skip:skipping unknown sku:1/612 - update mode set
+skip:skipping unknown sku:1/633 - update mode set
+skip:skipping unknown sku:1/652 - update mode set
+skip:skipping unknown sku:1/653 - update mode set
+skip:skipping unknown sku:1/654 - update mode set
+skip:skipping unknown sku:1/690 - update mode set
+skip:skipping unknown sku:1/693 - update mode set
+itime:500 - 6.3152420520782 - 0.74086809158325
+dbtime:7742 - 1.2991466522217 - 0.12074160575867 - 691
+itime:550 - 7.4161310195923 - 1.1007900238037
+dbtime:8561 - 1.4402840137482 - 0.14113736152649 - 819
+itime:600 - 8.1746580600739 - 0.75843119621277
+dbtime:9400 - 1.6193950176239 - 0.17911100387573 - 839
+itime:650 - 9.0323848724365 - 0.8575918674469
+dbtime:10219 - 1.7997491359711 - 0.18035411834717 - 819
+skip:skipping unknown sku:10304 - update mode set
+skip:skipping unknown sku:10309 - update mode set
+skip:skipping unknown sku:10310 - update mode set
+skip:skipping unknown sku:10326 - update mode set
+itime:700 - 9.5790278911591 - 0.54654383659363
+dbtime:10971 - 1.9211339950562 - 0.12138485908508 - 752
+itime:750 - 10.640163898468 - 1.0610499382019
+dbtime:11772 - 2.111686706543 - 0.19055271148682 - 801
+itime:800 - 11.535614013672 - 0.89533996582031
+dbtime:12611 - 2.3009407520294 - 0.18925404548645 - 839
+itime:850 - 12.393601894379 - 0.85789895057678
+dbtime:13463 - 2.4446997642517 - 0.14375901222229 - 852
+skip:skipping unknown sku:106311 - update mode set
+skip:skipping unknown sku:106611 - update mode set
+itime:900 - 13.050817012787 - 0.65710496902466
+dbtime:14281 - 2.5775303840637 - 0.13283061981201 - 818
+itime:950 - 13.890990018845 - 0.84001612663269
+dbtime:15133 - 2.7210147380829 - 0.14348435401917 - 852
+itime:1000 - 14.6339199543 - 0.74283409118652
+dbtime:15983 - 2.8617267608643 - 0.14071202278137 - 850
+itime:1050 - 15.485235929489 - 0.85117602348328
+dbtime:16821 - 3.0030243396759 - 0.14129757881165 - 838
+skip:skipping unknown sku:11310MUN - update mode set
+skip:skipping unknown sku:11312MUN - update mode set
+skip:skipping unknown sku:11318MUN - update mode set
+skip:skipping unknown sku:11322MUN - update mode set
+skip:skipping unknown sku:11341 - update mode set
+itime:1100 - 16.435828924179 - 0.9504759311676
+dbtime:17560 - 3.127788066864 - 0.12476372718811 - 739
+skip:skipping unknown sku:11702950 - update mode set
+skip:skipping unknown sku:11702951 - update mode set
+skip:skipping unknown sku:11702954 - update mode set
+skip:skipping unknown sku:11702955 - update mode set
+skip:skipping unknown sku:11702959 - update mode set
+itime:1150 - 17.066227912903 - 0.63030004501343
+dbtime:18312 - 3.2571649551392 - 0.12937688827515 - 752
+itime:1200 - 17.895421981812 - 0.82909607887268
+dbtime:19151 - 3.3961679935455 - 0.13900303840637 - 839
+itime:1250 - 18.768935918808 - 0.8733868598938
+dbtime:19955 - 3.5735518932343 - 0.17738389968872 - 804
+skip:skipping unknown sku:12301 - update mode set
+skip:skipping unknown sku:12307 - update mode set
+skip:skipping unknown sku:12313 - update mode set
+itime:1300 - 19.598044872284 - 0.82896494865417
+dbtime:20716 - 3.7444326877594 - 0.17088079452515 - 761
+itime:1350 - 20.592906951904 - 0.99476504325867
+dbtime:21551 - 3.8856291770935 - 0.14119648933411 - 835
+itime:1400 - 21.251772880554 - 0.65875291824341
+dbtime:22377 - 4.0261015892029 - 0.14047241210938 - 826
+itime:1450 - 22.0436668396 - 0.79175686836243
+dbtime:23195 - 4.163409948349 - 0.13730835914612 - 818
+itime:1500 - 23.237166881561 - 1.1933829784393
+dbtime:23995 - 4.3384881019592 - 0.17507815361023 - 800
+itime:1550 - 24.673828840256 - 1.4365808963776
+dbtime:24800 - 4.5145840644836 - 0.17609596252441 - 805
+itime:1600 - 25.812228918076 - 1.13827085495
+dbtime:25635 - 4.6857228279114 - 0.17113876342773 - 835
+skip:skipping unknown sku:16-418597 - update mode set
+skip:skipping unknown sku:16-418600 - update mode set
+itime:1650 - 26.3868060112 - 0.57444095611572
+dbtime:26439 - 4.8241438865662 - 0.13842105865479 - 804
+skip:skipping unknown sku:1725/14 - update mode set
+skip:skipping unknown sku:1725/93 - update mode set
+skip:skipping unknown sku:17390-2 - update mode set
+itime:1700 - 27.182811021805 - 0.79589605331421
+dbtime:27209 - 5.0059955120087 - 0.1818516254425 - 770
+itime:1750 - 27.912755966187 - 0.72980403900146
+dbtime:28017 - 5.1408259868622 - 0.13483047485352 - 808
+itime:1800 - 28.510247945786 - 0.5973789691925
+dbtime:28828 - 5.2777922153473 - 0.13696622848511 - 811
+skip:skipping unknown sku:179800 - update mode set
+skip:skipping unknown sku:180111RD01 - update mode set
+skip:skipping unknown sku:180311RD01 - update mode set
+skip:skipping unknown sku:1804NUVITA - update mode set
+itime:1850 - 29.250966072083 - 0.74057602882385
+dbtime:29590 - 5.4045662879944 - 0.12677407264709 - 762
+skip:skipping unknown sku:182910 - update mode set
+itime:1900 - 29.915228843689 - 0.66416883468628
+dbtime:30412 - 5.5432162284851 - 0.13864994049072 - 822
+skip:skipping unknown sku:20310 - update mode set
+itime:1950 - 30.490614891052 - 0.57527995109558
+dbtime:31221 - 5.6779959201813 - 0.13477969169617 - 809
+itime:2000 - 31.319798946381 - 0.82907390594482
+dbtime:32055 - 5.8397817611694 - 0.16178584098816 - 834
+skip:skipping unknown sku:21305 - update mode set
+itime:2050 - 32.084225893021 - 0.76431584358215
+dbtime:32847 - 6.0275137424469 - 0.18773198127747 - 792
+skip:skipping unknown sku:21310 - update mode set
+skip:skipping unknown sku:21316 - update mode set
+skip:skipping unknown sku:21319 - update mode set
+skip:skipping unknown sku:21321 - update mode set
+skip:skipping unknown sku:21324 - update mode set
+itime:2100 - 32.582180976868 - 0.49781703948975
+dbtime:33608 - 6.1515259742737 - 0.12401223182678 - 761
+itime:2150 - 33.322949886322 - 0.74065589904785
+dbtime:34452 - 6.2891483306885 - 0.13762235641479 - 844
+skip:skipping unknown sku:230110AN01 - update mode set
+skip:skipping unknown sku:230110BR01 - update mode set
+skip:skipping unknown sku:230110SA01 - update mode set
+skip:skipping unknown sku:230110ZW01 - update mode set
+skip:skipping unknown sku:230111OR01 - update mode set
+skip:skipping unknown sku:230111PB01 - update mode set
+skip:skipping unknown sku:230111SA01 - update mode set
+skip:skipping unknown sku:230111WH01 - update mode set
+skip:skipping unknown sku:230111ZW01 - update mode set
+skip:skipping unknown sku:230500SW01 - update mode set
+itime:2200 - 33.787836074829 - 0.46480011940002
+dbtime:35122 - 6.3968224525452 - 0.10767412185669 - 670
+itime:2250 - 34.473430871964 - 0.68548989295959
+dbtime:35936 - 6.5708913803101 - 0.17406892776489 - 814
+skip:skipping unknown sku:24313 - update mode set
+itime:2300 - 35.214351892471 - 0.74082183837891
+dbtime:36750 - 6.727489233017 - 0.15659785270691 - 814
+itime:2350 - 35.97741484642 - 0.7629189491272
+dbtime:37594 - 6.8961608409882 - 0.16867160797119 - 844
+skip:skipping unknown sku:25204T - update mode set
+skip:skipping unknown sku:25219 - update mode set
+itime:2400 - 36.519974946976 - 0.5424280166626
+dbtime:38385 - 7.0265035629272 - 0.13034272193909 - 791
+skip:skipping unknown sku:25314 - update mode set
+skip:skipping unknown sku:25317 - update mode set
+skip:skipping unknown sku:25321 - update mode set
+skip:skipping unknown sku:25324 - update mode set
+skip:skipping unknown sku:25327 - update mode set
+skip:skipping unknown sku:253701 - update mode set
+skip:skipping unknown sku:253702 - update mode set
+skip:skipping unknown sku:253801 - update mode set
+skip:skipping unknown sku:253802 - update mode set
+skip:skipping unknown sku:255301 - update mode set
+skip:skipping unknown sku:255302 - update mode set
+skip:skipping unknown sku:255304 - update mode set
+skip:skipping unknown sku:255307 - update mode set
+itime:2450 - 37.238507986069 - 0.71840405464172
+dbtime:39017 - 7.1830403804779 - 0.15653681755066 - 632
+skip:skipping unknown sku:26316 - update mode set
+skip:skipping unknown sku:26317 - update mode set
+skip:skipping unknown sku:26321 - update mode set
+skip:skipping unknown sku:26327 - update mode set
+skip:skipping unknown sku:267201 - update mode set
+skip:skipping unknown sku:267203 - update mode set
+skip:skipping unknown sku:274700 - update mode set
+skip:skipping unknown sku:281204 - update mode set
+skip:skipping unknown sku:281205 - update mode set
+skip:skipping unknown sku:281209 - update mode set
+skip:skipping unknown sku:281211 - update mode set
+itime:2500 - 37.671527862549 - 0.43289279937744
+dbtime:39680 - 7.2902052402496 - 0.10716485977173 - 663
+skip:skipping unknown sku:282301 - update mode set
+skip:skipping unknown sku:282302 - update mode set
+skip:skipping unknown sku:282304 - update mode set
+skip:skipping unknown sku:282307 - update mode set
+skip:skipping unknown sku:282901 - update mode set
+skip:skipping unknown sku:282902 - update mode set
+skip:skipping unknown sku:282904 - update mode set
+skip:skipping unknown sku:283202 - update mode set
+skip:skipping unknown sku:283204 - update mode set
+skip:skipping unknown sku:292800 - update mode set
+itime:2550 - 38.257678985596 - 0.58603596687317
+dbtime:40369 - 7.4332826137543 - 0.14307737350464 - 689
+skip:skipping unknown sku:298700 - update mode set
+itime:2600 - 39.120084047318 - 0.86231398582458
+dbtime:41197 - 7.5690641403198 - 0.13578152656555 - 828
+itime:2650 - 39.695340871811 - 0.57511496543884
+dbtime:42014 - 7.7083601951599 - 0.13929605484009 - 817
+skip:skipping unknown sku:31130026 - update mode set
+itime:2700 - 40.425160884857 - 0.72965693473816
+dbtime:42847 - 7.848207950592 - 0.13984775543213 - 833
+skip:skipping unknown sku:32110001 - update mode set
+itime:2750 - 41.243495941162 - 0.81822991371155
+dbtime:43668 - 8.0173881053925 - 0.16918015480042 - 821
+skip:skipping unknown sku:32130061 - update mode set
+skip:skipping unknown sku:32130062 - update mode set
+itime:2800 - 41.808104991913 - 0.56447100639343
+dbtime:44471 - 8.1560370922089 - 0.13864898681641 - 803
+skip:skipping unknown sku:33110024 - update mode set
+itime:2850 - 42.626229047775 - 0.81801104545593
+dbtime:45302 - 8.32732629776 - 0.17128920555115 - 831
+skip:skipping unknown sku:35303 - update mode set
+itime:2900 - 43.466579914093 - 0.84025907516479
+dbtime:46128 - 8.4639060497284 - 0.13657975196838 - 826
+itime:2950 - 44.120668888092 - 0.65398192405701
+dbtime:46961 - 8.605149269104 - 0.14124321937561 - 833
+skip:skipping unknown sku:37230 - update mode set
+skip:skipping unknown sku:37321 - update mode set
+skip:skipping unknown sku:37325 - update mode set
+itime:3000 - 44.751132965088 - 0.63033890724182
+dbtime:47751 - 8.7398753166199 - 0.13472604751587 - 790
+itime:3050 - 45.580402851105 - 0.82918286323547
+dbtime:48594 - 8.8874382972717 - 0.14756298065186 - 843
+itime:3100 - 46.257448911667 - 0.6769380569458
+dbtime:49432 - 9.0682518482208 - 0.1808135509491 - 838
+skip:skipping unknown sku:40302 - update mode set
+skip:skipping unknown sku:40341 - update mode set
+skip:skipping unknown sku:4039184102206 - update mode set
+skip:skipping unknown sku:4039184103302 - update mode set
+itime:3150 - 46.842397928238 - 0.58480286598206
+dbtime:50216 - 9.2000830173492 - 0.13183116912842 - 784
+itime:3200 - 47.902256011963 - 1.0597939491272
+dbtime:51064 - 9.3775496482849 - 0.17746663093567 - 848
+skip:skipping unknown sku:41310 - update mode set
+itime:3250 - 48.731974840164 - 0.82961082458496
+dbtime:51886 - 9.5432908535004 - 0.16574120521545 - 822
+skip:skipping unknown sku:41317 - update mode set
+itime:3300 - 49.527624845505 - 0.79558396339417
+dbtime:52685 - 9.7259924411774 - 0.182701587677 - 799
+itime:3350 - 50.286332845688 - 0.75859999656677
+dbtime:53500 - 9.8918082714081 - 0.16581583023071 - 815
+skip:skipping unknown sku:42314 - update mode set
+itime:3400 - 50.994039058685 - 0.70754909515381
+dbtime:54320 - 10.029732227325 - 0.13792395591736 - 820
+itime:3450 - 52.004633903503 - 1.0104739665985
+dbtime:55131 - 10.172966718674 - 0.14323449134827 - 811
+itime:3500 - 52.844769954681 - 0.84002208709717
+dbtime:55957 - 10.348078727722 - 0.17511200904846 - 826
+itime:3550 - 53.74680685997 - 0.90191698074341
+dbtime:56774 - 10.523342847824 - 0.17526412010193 - 817
+itime:3600 - 54.412164926529 - 0.6651930809021
+dbtime:57611 - 10.665443658829 - 0.14210081100464 - 837
+itime:3650 - 55.473443984985 - 1.0611729621887
+dbtime:58425 - 10.809197425842 - 0.14375376701355 - 814
+itime:3700 - 56.241031885147 - 0.76745700836182
+dbtime:59239 - 10.944314241409 - 0.13511681556702 - 814
+skip:skipping unknown sku:49307 - update mode set
+skip:skipping unknown sku:49311 - update mode set
+skip:skipping unknown sku:49319 - update mode set
+skip:skipping unknown sku:49321 - update mode set
+skip:skipping unknown sku:49324 - update mode set
+skip:skipping unknown sku:49326 - update mode set
+skip:skipping unknown sku:49341 - update mode set
+itime:3750 - 57.023319959641 - 0.78215789794922
+dbtime:59937 - 11.064433813095 - 0.12011957168579 - 698
+itime:3800 - 58.159676074982 - 1.1362121105194
+dbtime:60763 - 11.211083173752 - 0.14664936065674 - 826
+skip:skipping unknown sku:5060062996104 - update mode set
+itime:3850 - 59.302789926529 - 1.1429998874664
+dbtime:61572 - 11.345818996429 - 0.13473582267761 - 809
+itime:3900 - 60.098847866058 - 0.7959418296814
+dbtime:62383 - 11.484591722488 - 0.13877272605896 - 811
+skip:skipping unknown sku:51301 - update mode set
+skip:skipping unknown sku:51302 - update mode set
+skip:skipping unknown sku:51305 - update mode set
+skip:skipping unknown sku:51316 - update mode set
+skip:skipping unknown sku:51319 - update mode set
+skip:skipping unknown sku:51321 - update mode set
+itime:3950 - 61.062311887741 - 0.96335387229919
+dbtime:63113 - 11.630717515945 - 0.14612579345703 - 730
+itime:4000 - 61.990746974945 - 0.92831301689148
+dbtime:63947 - 11.821691274643 - 0.19097375869751 - 834
+itime:4050 - 62.687484025955 - 0.69660115242004
+dbtime:64793 - 11.962686777115 - 0.14099550247192 - 846
+skip:skipping unknown sku:53202 - update mode set
+skip:skipping unknown sku:53303 - update mode set
+skip:skipping unknown sku:53321 - update mode set
+skip:skipping unknown sku:53325 - update mode set
+skip:skipping unknown sku:53330 - update mode set
+itime:4100 - 63.505579948425 - 0.8179759979248
+dbtime:65535 - 12.128579378128 - 0.16589260101318 - 742
+itime:4150 - 64.389860868454 - 0.88417482376099
+dbtime:66375 - 12.309802532196 - 0.18122315406799 - 840
+itime:4200 - 65.230161905289 - 0.84020686149597
+dbtime:67202 - 12.449038028717 - 0.139235496521 - 827
+skip:skipping unknown sku:580311SA01 - update mode set
+itime:4250 - 66.120831012726 - 0.89056801795959
+dbtime:67996 - 12.614344596863 - 0.16530656814575 - 794
+skip:skipping unknown sku:580311ZW01 - update mode set
+skip:skipping unknown sku:581313RD01 - update mode set
+itime:4300 - 66.78928899765 - 0.66830801963806
+dbtime:68796 - 12.749883651733 - 0.13553905487061 - 800
+itime:4350 - 67.728885889053 - 0.93945789337158
+dbtime:69647 - 12.895443201065 - 0.14555954933167 - 851
+itime:4400 - 68.486929893494 - 0.75789904594421
+dbtime:70481 - 13.036549329758 - 0.14110612869263 - 834
+skip:skipping unknown sku:60003160 - update mode set
+skip:skipping unknown sku:60008130 - update mode set
+itime:4450 - 69.311903953552 - 0.82488703727722
+dbtime:71286 - 13.172358512878 - 0.13580918312073 - 805
+itime:4500 - 70.141433000565 - 0.82941508293152
+dbtime:72103 - 13.342823505402 - 0.17046499252319 - 817
+skip:skipping unknown sku:60106960 - update mode set
+itime:4550 - 70.986451864243 - 0.84489798545837
+dbtime:72908 - 13.48219704628 - 0.1393735408783 - 805
+itime:4600 - 72.540194988251 - 1.5535860061646
+dbtime:73721 - 13.69322180748 - 0.21102476119995 - 813
+itime:4650 - 73.203279972076 - 0.66296696662903
+dbtime:74543 - 13.836476325989 - 0.14325451850891 - 822
+itime:4700 - 74.04360294342 - 0.84023690223694
+dbtime:75364 - 13.978544950485 - 0.14206862449646 - 821
+skip:skipping unknown sku:61005350 - update mode set
+skip:skipping unknown sku:61005380 - update mode set
+skip:skipping unknown sku:61005910 - update mode set
+skip:skipping unknown sku:61005940 - update mode set
+skip:skipping unknown sku:61005950 - update mode set
+skip:skipping unknown sku:61006850 - update mode set
+skip:skipping unknown sku:61006950 - update mode set
+itime:4750 - 74.662946939468 - 0.61925005912781
+dbtime:76065 - 14.097229719162 - 0.11868476867676 - 701
+itime:4800 - 75.260450839996 - 0.59741282463074
+dbtime:76894 - 14.235077619553 - 0.13784790039062 - 829
+itime:4850 - 76.090395927429 - 0.82979893684387
+dbtime:77732 - 14.415604114532 - 0.18052649497986 - 838
+skip:skipping unknown sku:61746850 - update mode set
+skip:skipping unknown sku:61746960 - update mode set
+itime:4900 - 76.787795066833 - 0.69730114936829
+dbtime:78510 - 14.600947380066 - 0.18534326553345 - 778
+itime:4950 - 77.617069959641 - 0.8291289806366
+dbtime:79318 - 14.786816120148 - 0.18586874008179 - 808
+itime:5000 - 78.249341964722 - 0.63218688964844
+dbtime:80127 - 14.92468547821 - 0.13786935806274 - 809
+skip:skipping unknown sku:63016760 - update mode set
+skip:skipping unknown sku:63016960 - update mode set
+itime:5050 - 79.090092897415 - 0.84066295623779
+dbtime:80910 - 15.062305212021 - 0.13761973381042 - 783
+skip:skipping unknown sku:63316 - update mode set
+itime:5100 - 79.798472881317 - 0.70828890800476
+dbtime:81703 - 15.226429462433 - 0.16412425041199 - 793
+skip:skipping unknown sku:63606390 - update mode set
+itime:5150 - 80.572507858276 - 0.77390694618225
+dbtime:82499 - 15.403891563416 - 0.17746210098267 - 796
+itime:5200 - 81.247501850128 - 0.67486691474915
+dbtime:83339 - 15.546780347824 - 0.14288878440857 - 840
+skip:skipping unknown sku:64106120 - update mode set
+itime:5250 - 81.944561958313 - 0.69694399833679
+dbtime:84133 - 15.683784008026 - 0.13700366020203 - 794
+skip:skipping unknown sku:64352 - update mode set
+skip:skipping unknown sku:64406110 - update mode set
+itime:5300 - 82.740557909012 - 0.79588294029236
+dbtime:84940 - 15.819445848465 - 0.13566184043884 - 807
+itime:5350 - 83.472035884857 - 0.73138189315796
+dbtime:85772 - 15.960986614227 - 0.14154076576233 - 832
+itime:5400 - 84.224076986313 - 0.75193810462952
+dbtime:86606 - 16.131506204605 - 0.17051959037781 - 834
+itime:5450 - 84.942893981934 - 0.71868014335632
+dbtime:87422 - 16.322396993637 - 0.19089078903198 - 816
+itime:5500 - 85.551632881165 - 0.60863900184631
+dbtime:88235 - 16.463559627533 - 0.14116263389587 - 813
+itime:5550 - 86.303735971451 - 0.75201010704041
+dbtime:89043 - 16.606455802917 - 0.14289617538452 - 808
+skip:skipping unknown sku:672FA1167 - update mode set
+skip:skipping unknown sku:672FA1209 - update mode set
+itime:5600 - 86.978780031204 - 0.67491602897644
+dbtime:89845 - 16.742556095123 - 0.13610029220581 - 802
+itime:5650 - 87.576153993607 - 0.59727311134338
+dbtime:90695 - 16.881865978241 - 0.13930988311768 - 850
+itime:5700 - 88.405570030212 - 0.82932114601135
+dbtime:91521 - 17.026862621307 - 0.14499664306641 - 826
+itime:5750 - 89.435380935669 - 1.0297219753265
+dbtime:92352 - 17.196164131165 - 0.16930150985718 - 831
+itime:5800 - 90.187332868576 - 0.75184893608093
+dbtime:93168 - 17.380313158035 - 0.18414902687073 - 816
+itime:5850 - 90.950473070145 - 0.76304721832275
+dbtime:94008 - 17.567062854767 - 0.18674969673157 - 840
+itime:5900 - 91.570060968399 - 0.61946797370911
+dbtime:94830 - 17.7075984478 - 0.14053559303284 - 822
+itime:5950 - 92.32860994339 - 0.7584068775177
+dbtime:95650 - 17.849235057831 - 0.14163661003113 - 820
+itime:6000 - 93.305881977081 - 0.9771740436554
+dbtime:96470 - 18.041091680527 - 0.19185662269592 - 820
+itime:6050 - 94.455569028854 - 1.1495621204376
+dbtime:97281 - 18.184323787689 - 0.14323210716248 - 811
+itime:6100 - 95.346575975418 - 0.89088606834412
+dbtime:98087 - 18.34773349762 - 0.16340970993042 - 806
+skip:skipping unknown sku:73505290 - update mode set
+skip:skipping unknown sku:73505310 - update mode set
+skip:skipping unknown sku:73505350 - update mode set
+skip:skipping unknown sku:73505520 - update mode set
+skip:skipping unknown sku:73505710 - update mode set
+itime:6150 - 96.098470926285 - 0.75179290771484
+dbtime:98848 - 18.475955486298 - 0.12822198867798 - 761
+itime:6200 - 97.043092012405 - 0.94446110725403
+dbtime:99660 - 18.618536949158 - 0.14258146286011 - 812
+skip:skipping unknown sku:75106170 - update mode set
+skip:skipping unknown sku:75106330 - update mode set
+skip:skipping unknown sku:75116860 - update mode set
+skip:skipping unknown sku:75116960 - update mode set
+skip:skipping unknown sku:75905540 - update mode set
+itime:6250 - 97.982481956482 - 0.93924689292908
+dbtime:100394 - 18.749819993973 - 0.13128304481506 - 734
+skip:skipping unknown sku:76405950 - update mode set
+skip:skipping unknown sku:76905570 - update mode set
+itime:6300 - 98.818161010742 - 0.83555603027344
+dbtime:101173 - 18.882551908493 - 0.13273191452026 - 779
+itime:6350 - 99.709152936935 - 0.89085602760315
+dbtime:101986 - 19.027837514877 - 0.14528560638428 - 813
+skip:skipping unknown sku:80112AN01 - update mode set
+skip:skipping unknown sku:80112PB01 - update mode set
+skip:skipping unknown sku:80112ZW01 - update mode set
+itime:6400 - 100.65973901749 - 0.95048999786377
+dbtime:102759 - 19.162203788757 - 0.13436627388 - 773
+skip:skipping unknown sku:80400MC02 - update mode set
+skip:skipping unknown sku:80500TR01 - update mode set
+itime:6450 - 101.75395703316 - 1.0941240787506
+dbtime:103542 - 19.297699213028 - 0.13549542427063 - 783
+itime:6500 - 102.79918599129 - 1.0451140403748
+dbtime:104382 - 19.462435722351 - 0.16473650932312 - 840
+itime:6550 - 104.25762796402 - 1.4583530426025
+dbtime:105232 - 19.709931135178 - 0.24749541282654 - 850
+skip:skipping unknown sku:82300 - update mode set
+itime:6600 - 105.23516702652 - 0.97740697860718
+dbtime:106046 - 19.880720853806 - 0.17078971862793 - 814
+skip:skipping unknown sku:84300 - update mode set
+itime:6650 - 106.13069486618 - 0.89544296264648
+dbtime:106858 - 20.051419258118 - 0.17069840431213 - 812
+itime:6700 - 107.10539197922 - 0.9745991230011
+dbtime:107683 - 20.210694074631 - 0.15927481651306 - 825
+skip:skipping unknown sku:86300 - update mode set
+skip:skipping unknown sku:871-T97 - update mode set
+itime:6750 - 107.73578906059 - 0.63027119636536
+dbtime:108489 - 20.346072912216 - 0.13537883758545 - 806
+itime:6800 - 109.35972499847 - 1.6238009929657
+dbtime:109339 - 20.490024089813 - 0.14395117759705 - 850
+skip:skipping unknown sku:87445312 - update mode set
+skip:skipping unknown sku:87445357 - update mode set
+skip:skipping unknown sku:87445942 - update mode set
+skip:skipping unknown sku:87445952 - update mode set
+itime:6850 - 110.72983193398 - 1.3700020313263
+dbtime:110095 - 20.62228512764 - 0.13226103782654 - 756
+skip:skipping unknown sku:88307 - update mode set
+skip:skipping unknown sku:88310 - update mode set
+skip:skipping unknown sku:88316 - update mode set
+skip:skipping unknown sku:88318 - update mode set
+itime:6900 - 111.55419206619 - 0.8242621421814
+dbtime:110849 - 20.749243736267 - 0.12695860862732 - 754
+itime:6950 - 112.59794187546 - 1.0436539649963
+dbtime:111695 - 20.914547204971 - 0.16530346870422 - 846
+itime:7000 - 114.07876205444 - 1.4806911945343
+dbtime:112510 - 21.097868204117 - 0.18332099914551 - 815
+itime:7050 - 114.91873407364 - 0.83982706069946
+dbtime:113337 - 21.243498563766 - 0.14563035964966 - 827
+itime:7100 - 115.89145207405 - 0.97261023521423
+dbtime:114182 - 21.38743019104 - 0.14393162727356 - 845
+skip:skipping unknown sku:9318499001301 - update mode set
+skip:skipping unknown sku:9318499001318 - update mode set
+skip:skipping unknown sku:9318499001325 - update mode set
+skip:skipping unknown sku:9318499001332 - update mode set
+itime:7150 - 116.63835597038 - 0.74677300453186
+dbtime:114951 - 21.518311023712 - 0.13088083267212 - 769
+itime:7200 - 117.58495688438 - 0.94649887084961
+dbtime:115771 - 21.661441802979 - 0.14313077926636 - 820
+itime:7250 - 118.55780792236 - 0.97270202636719
+dbtime:116612 - 21.829049825668 - 0.16760802268982 - 841
+skip:skipping unknown sku:99990003 - update mode set
+skip:skipping unknown sku:A003205 - update mode set
+skip:skipping unknown sku:A004302 - update mode set
+skip:skipping unknown sku:A010003 - update mode set
+skip:skipping unknown sku:A010004 - update mode set
+skip:skipping unknown sku:A012409 - update mode set
+skip:skipping unknown sku:A020003 - update mode set
+skip:skipping unknown sku:A020200 - update mode set
+skip:skipping unknown sku:A020202 - update mode set
+skip:skipping unknown sku:A020203 - update mode set
+skip:skipping unknown sku:A027003 - update mode set
+skip:skipping unknown sku:A027004 - update mode set
+itime:7300 - 119.34264206886 - 0.78466820716858
+dbtime:117238 - 21.966866731644 - 0.13781690597534 - 626
+skip:skipping unknown sku:A050205 - update mode set
+skip:skipping unknown sku:A050207 - update mode set
+skip:skipping unknown sku:A104008 - update mode set
+skip:skipping unknown sku:A104409 - update mode set
+skip:skipping unknown sku:A104702 - update mode set
+skip:skipping unknown sku:A104707 - update mode set
+itime:7350 - 120.24974894524 - 0.9070029258728
+dbtime:117955 - 22.120645523071 - 0.15377879142761 - 717
+skip:skipping unknown sku:A104708 - update mode set
+skip:skipping unknown sku:A104802 - update mode set
+skip:skipping unknown sku:A104803 - update mode set
+skip:skipping unknown sku:A104804 - update mode set
+skip:skipping unknown sku:A104808 - update mode set
+skip:skipping unknown sku:A104810 - update mode set
+skip:skipping unknown sku:A104811 - update mode set
+skip:skipping unknown sku:A104909 - update mode set
+skip:skipping unknown sku:A104917 - update mode set
+skip:skipping unknown sku:A104920 - update mode set
+skip:skipping unknown sku:A104921 - update mode set
+skip:skipping unknown sku:A104922 - update mode set
+skip:skipping unknown sku:A105904 - update mode set
+skip:skipping unknown sku:A106104 - update mode set
+skip:skipping unknown sku:A106105 - update mode set
+skip:skipping unknown sku:A106310 - update mode set
+itime:7400 - 120.80810689926 - 0.55829191207886
+dbtime:118518 - 22.220622777939 - 0.099977254867554 - 563
+itime:7450 - 121.9286429882 - 1.1204099655151
+dbtime:119368 - 22.437022209167 - 0.21639943122864 - 850
+itime:7500 - 122.76890492439 - 0.84014296531677
+dbtime:120198 - 22.621726751328 - 0.18470454216003 - 830
+itime:7550 - 123.62024903297 - 0.851233959198
+dbtime:121022 - 22.765093803406 - 0.14336705207825 - 824
+skip:skipping unknown sku:B155-C198 - update mode set
+itime:7600 - 124.61520290375 - 0.99486184120178
+dbtime:121839 - 22.966733694077 - 0.20163989067078 - 817
+skip:skipping unknown sku:BUMBO AQUA - update mode set
+skip:skipping unknown sku:BUMBO KANDIK - update mode set
+skip:skipping unknown sku:BUMBO LILAC - update mode set
+skip:skipping unknown sku:BUMBO LIME - update mode set
+skip:skipping unknown sku:BUMBO PINK - update mode set
+itime:7650 - 125.22344303131 - 0.60809898376465
+dbtime:122593 - 23.096867084503 - 0.13013339042664 - 754
+skip:skipping unknown sku:C605001-C193 - update mode set
+itime:7700 - 125.98683404922 - 0.76326704025269
+dbtime:123416 - 23.261229515076 - 0.16436243057251 - 823
+skip:skipping unknown sku:CLT0001 - update mode set
+itime:7750 - 126.86016702652 - 0.87320613861084
+dbtime:124235 - 23.449719905853 - 0.18849039077759 - 819
+itime:7800 - 127.79967498779 - 0.93941307067871
+dbtime:125084 - 23.589812517166 - 0.14009261131287 - 849
+skip:skipping unknown sku:FBAUKSCIO - update mode set
+skip:skipping unknown sku:FBKREPSELIS - update mode set
+itime:7850 - 128.38742303848 - 0.58764100074768
+dbtime:125893 - 23.723186016083 - 0.13337349891663 - 809
+itime:7900 - 130.00061392784 - 1.6130919456482
+dbtime:126721 - 23.893309831619 - 0.1701238155365 - 828
+itime:7950 - 130.81883788109 - 0.81809997558594
+dbtime:127527 - 24.070386886597 - 0.17707705497742 - 806
+itime:8000 - 131.42710804939 - 0.6081120967865
+dbtime:128347 - 24.209924936295 - 0.13953804969788 - 820
+itime:8050 - 132.30049705505 - 0.87328100204468
+dbtime:129155 - 24.41793847084 - 0.2080135345459 - 808
+skip:skipping unknown sku:G18-5-6 - update mode set
+skip:skipping unknown sku:G3-4-6 - update mode set
+itime:8100 - 133.19632101059 - 0.89572215080261
+dbtime:129931 - 24.599681138992 - 0.18174266815186 - 776
+itime:8150 - 134.30112600327 - 1.1046860218048
+dbtime:130739 - 24.739175081253 - 0.13949394226074 - 808
+itime:8200 - 135.26315402985 - 0.96189618110657
+dbtime:131552 - 24.879910945892 - 0.14073586463928 - 813
+itime:8250 - 136.04968905449 - 0.78642702102661
+dbtime:132393 - 25.059780597687 - 0.17986965179443 - 841
+itime:8300 - 137.45309400558 - 1.4033060073853
+dbtime:133228 - 25.207056999207 - 0.14727640151978 - 835
+skip:skipping unknown sku:IAKTAB00-IN29 - update mode set
+skip:skipping unknown sku:IAKTAB00-IN31 - update mode set
+skip:skipping unknown sku:IAKTAB00-IN34 - update mode set
+itime:8350 - 138.20480203629 - 0.75156617164612
+dbtime:134025 - 25.341902017593 - 0.13484501838684 - 797
+itime:8400 - 139.11136484146 - 0.90647387504578
+dbtime:134869 - 25.485259771347 - 0.14335775375366 - 844
+itime:8450 - 139.69776105881 - 0.5862832069397
+dbtime:135716 - 25.626495361328 - 0.14123558998108 - 847
+itime:8500 - 140.61523985863 - 0.91736888885498
+dbtime:136566 - 25.829576730728 - 0.20308136940002 - 850
+itime:8550 - 141.43369102478 - 0.81836199760437
+dbtime:137412 - 25.983248233795 - 0.15367150306702 - 846
+itime:8600 - 143.0577878952 - 1.6239769458771
+dbtime:138252 - 26.268314838409 - 0.28506660461426 - 840
+itime:8650 - 144.51626896858 - 1.4583990573883
+dbtime:139083 - 26.522801399231 - 0.25448656082153 - 831
+itime:8700 - 145.42458486557 - 0.90820693969727
+dbtime:139906 - 26.733306407928 - 0.21050500869751 - 823
+skip:skipping unknown sku:KA10606 - update mode set
+skip:skipping unknown sku:KA10607 - update mode set
+skip:skipping unknown sku:KA10621 - update mode set
+itime:8750 - 145.95573592186 - 0.53105592727661
+dbtime:140669 - 26.866672754288 - 0.13336634635925 - 763
+itime:8800 - 146.66358184814 - 0.70775485038757
+dbtime:141503 - 27.012053728104 - 0.14538097381592 - 834
+skip:skipping unknown sku:L2006 - update mode set
+skip:skipping unknown sku:L2007 - update mode set
+skip:skipping unknown sku:L2010 - update mode set
+itime:8850 - 147.40558505058 - 0.74189805984497
+dbtime:142298 - 27.200450181961 - 0.18839645385742 - 795
+skip:skipping unknown sku:L2011 - update mode set
+itime:8900 - 148.11120295525 - 0.70552611351013
+dbtime:143129 - 27.341103792191 - 0.14065361022949 - 831
+itime:8950 - 148.95859503746 - 0.84728217124939
+dbtime:143979 - 27.48601436615 - 0.14491057395935 - 850
+itime:9000 - 149.78136706352 - 0.82268309593201
+dbtime:144827 - 27.628443002701 - 0.1424286365509 - 848
+itime:9050 - 150.79362797737 - 1.0121691226959
+dbtime:145663 - 27.81303358078 - 0.18459057807922 - 836
+itime:9100 - 151.63853502274 - 0.84479999542236
+dbtime:146491 - 27.955304861069 - 0.1422712802887 - 828
+skip:skipping unknown sku:N126-C167 - update mode set
+itime:9150 - 152.58927106857 - 0.95061922073364
+dbtime:147296 - 28.122366666794 - 0.1670618057251 - 805
+skip:skipping unknown sku:NINSC903 - update mode set
+skip:skipping unknown sku:NINSC905 - update mode set
+skip:skipping unknown sku:NINSC920 - update mode set
+skip:skipping unknown sku:NU0038NUVITA - update mode set
+itime:9200 - 153.62821292877 - 1.0388350486755
+dbtime:148064 - 28.255363464355 - 0.13299679756165 - 768
+itime:9250 - 154.76676607132 - 1.1384592056274
+dbtime:148886 - 28.433751106262 - 0.17838764190674 - 822
+itime:9300 - 156.08802103996 - 1.3211259841919
+dbtime:149726 - 28.688838481903 - 0.25508737564087 - 840
+itime:9350 - 156.96814799309 - 0.880038022995
+dbtime:150564 - 28.868927240372 - 0.18008875846863 - 838
+itime:9400 - 158.05128192902 - 1.0829989910126
+dbtime:151386 - 29.034907102585 - 0.16597986221313 - 822
+skip:skipping unknown sku:S100313 - update mode set
+skip:skipping unknown sku:S260204 - update mode set
+itime:9450 - 159.53191590309 - 1.4805269241333
+dbtime:152180 - 29.175232887268 - 0.14032578468323 - 794
+itime:9500 - 160.44951200485 - 0.91748094558716
+dbtime:153018 - 29.359533786774 - 0.18430089950562 - 838
+itime:9550 - 161.46643590927 - 1.0167949199677
+dbtime:153826 - 29.501970529556 - 0.14243674278259 - 808
+skip:skipping unknown sku:SUNCANWIRE - update mode set
+itime:9600 - 162.30668902397 - 0.84012508392334
+dbtime:154628 - 29.639021158218 - 0.13705062866211 - 802
+itime:9650 - 163.2796869278 - 0.97289395332336
+dbtime:155460 - 29.783119678497 - 0.14409852027893 - 832
+skip:skipping unknown sku:TDDBM - update mode set
+skip:skipping unknown sku:TDDPA3D - update mode set
+skip:skipping unknown sku:TDKW90-24 - update mode set
+skip:skipping unknown sku:TDKW90-52 - update mode set
+skip:skipping unknown sku:TDOBB3-10 - update mode set
+skip:skipping unknown sku:TDOBE5-10 - update mode set
+skip:skipping unknown sku:TDPN60-04 - update mode set
+skip:skipping unknown sku:TDPN70-04 - update mode set
+itime:9700 - 164.03795385361 - 0.75811886787415
+dbtime:156140 - 29.925221204758 - 0.14210152626038 - 680
+skip:skipping unknown sku:TDR-08 - update mode set
+skip:skipping unknown sku:TFM0901TF - update mode set
+skip:skipping unknown sku:TFM0901TP - update mode set
+skip:skipping unknown sku:TFM0904TF - update mode set
+skip:skipping unknown sku:TFM1150TP - update mode set
+skip:skipping unknown sku:TKM75-16-PINK - update mode set
+skip:skipping unknown sku:TKMP-15 - update mode set
+skip:skipping unknown sku:TKMP-18 - update mode set
+skip:skipping unknown sku:TKMP-20 - update mode set
+skip:skipping unknown sku:TKMP-47 - update mode set
+skip:skipping unknown sku:TKMP-49 - update mode set
+skip:skipping unknown sku:TKMP-L52 - update mode set
+skip:skipping unknown sku:TW00003 - update mode set
+skip:skipping unknown sku:UML0901IX - update mode set
+skip:skipping unknown sku:UML0903IX - update mode set
+itime:9750 - 164.50992393494 - 0.47189688682556
+dbtime:156718 - 30.023845672607 - 0.098624467849731 - 578
+skip:skipping unknown sku:UML0905IX - update mode set
+itime:9800 - 165.84801506996 - 1.3380250930786
+dbtime:157515 - 30.212903499603 - 0.18905782699585 - 797
+itime:9850 - 167.10586285591 - 1.2577137947083
+dbtime:158328 - 30.442260742188 - 0.22935724258423 - 813
+itime:9900 - 168.57546496391 - 1.469477891922
+dbtime:159144 - 30.609830141068 - 0.16756939888 - 816
+skip:skipping unknown sku:W9913 - update mode set
+itime:9950 - 169.57636499405 - 1.0007660388947
+dbtime:159961 - 30.782674074173 - 0.17284393310547 - 817
+skip:skipping unknown sku:X2919 - update mode set
+skip:skipping unknown sku:ZEROBL38 - update mode set
+skip:skipping unknown sku:ZEROBL46 - update mode set
+skip:skipping unknown sku:ZEROBL71 - update mode set
+itime:9957 - 169.64387798309 - 0.067394971847534
+dbtime:160032 - 30.795653581619 - 0.012979507446289 - 71
+info:Skus imported OK:9653/9957
+warning:Skus imported KO:304/9957
+end:Import Ended
