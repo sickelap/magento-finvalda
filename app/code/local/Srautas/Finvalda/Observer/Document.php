@@ -24,13 +24,17 @@ class Srautas_Finvalda_Observer_Document {
             <sDokumentas></sDokumentas>
             <sValiuta>{$orderData['order_currency_code']}</sValiuta>";
 
+        $VAT = 21;
+
         foreach ($order->getAllItems() as $item) {
             $children = $item->getChildrenItems();
             if (!empty($children)) {
                 continue; // bundle
             }
             $itemData = $item->getData();
-            $price = round($itemData['price_incl_tax'], 2);
+            $priceVat = round($itemData['price_incl_tax'], 4);
+            $priceNoVat = round($priceVat / ($VAT / 100 + 1), 4);
+            $priceVatValue = round($priceVat - $priceNoVat, 4);
             $qty = intval($itemData['qty_ordered']);
             $XML .= "
                 <PardDokPrekeDetEil>
@@ -38,23 +42,29 @@ class Srautas_Finvalda_Observer_Document {
                     <sPavadinimas>{$itemData['name']}</sPavadinimas>
                     <sSandelis>CENTR.</sSandelis>
                     <nKiekis>{$qty}</nKiekis>
-                    <dSumaL>{$price}</dSumaL>
-                    <dSumaV>{$price}</dSumaV>
-                    <dPVM_Procentas>21</dPVM_Procentas>
+                    <dSumaL>{$priceNoVat}</dSumaL>
+                    <dSumaV>{$priceNoVat}</dSumaV>
+                    <dSumaPVMV>{$priceVatValue}</dSumaPVMV>
+                    <dSumaPVML>{$priceVatValue}</dSumaPVML>
                 </PardDokPrekeDetEil>";
         }
 
-        $shippingAmount = round($order->getShippingAmount(), 2);
+        $shippingAmountVat = round($order->getShippingAmount(), 4);
+        $shippingAmountNoVat = round($shippingAmountVat / ($VAT / 100 + 1), 4);
+        $shippingVatValue = round($shippingAmountVat - $shippingAmountNoVat, 4);
         $XML .= "
             <PardDokPaslaugaDetEil>
                 <sKodas>TRANSPORTAV</sKodas>
-                <dSumaV>{$shippingAmount}</dSumaV>
-                <dSumaL>{$shippingAmount}</dSumaL>
                 <nKiekis>100</nKiekis>
-                <dPVM_Procentas>21</dPVM_Procentas>
+                <dSumaV>{$shippingAmountNoVat}</dSumaV>
+                <dSumaL>{$shippingAmountNoVat}</dSumaL>
+                <dSumaPVMV>{$shippingVatValue}</dSumaPVMV>
+                <dSumaPVML>{$shippingVatValue}</dSumaPVML>
     	    </PardDokPaslaugaDetEil>
         ";
         $XML .= "</TrumpasPardRezDok>";
+
+        Mage::log($XML);
 
         /** @var $fvs Srautas_Finvalda_Webservice */
         $fvs = Mage::getSingleton('finvalda/webservice');
