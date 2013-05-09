@@ -64,8 +64,6 @@ class Srautas_Finvalda_Observer_Document {
         ";
         $XML .= "</TrumpasPardRezDok>";
 
-        Mage::log($XML);
-
         /** @var $fvs Srautas_Finvalda_Webservice */
         $fvs = Mage::getSingleton('finvalda/webservice');
         $fvs->InsertNewOperation(array(
